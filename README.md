@@ -12,4 +12,4 @@ This study primarily discusses the process of developing a digital twin for chem
 **Autoregressive training significantly enhance the generative capabilities of StSML and Transformer models**
 
 ## Downloads
-- []
+- [Presentation Powerpoint](Da-Jyun Ni.pptx)
